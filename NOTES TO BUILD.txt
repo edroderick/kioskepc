@@ -1,0 +1,1 @@
+KioskInterface built on the Microchip Harmony 2.04 Libraries. Must be placed in "apps" directory to build correctly. Uses MPLabX IDE and XC32 Complier

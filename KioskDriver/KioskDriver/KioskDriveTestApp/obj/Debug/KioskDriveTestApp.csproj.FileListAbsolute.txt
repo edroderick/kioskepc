@@ -1,0 +1,11 @@
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\bin\Debug\KioskDriveTestApp.exe.config
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\bin\Debug\KioskDriveTestApp.exe
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\bin\Debug\KioskDriveTestApp.pdb
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\bin\Debug\Securiport.Kiosk.KioskDrivers.dll
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\bin\Debug\Securiport.Kiosk.KioskDrivers.pdb
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.csprojResolveAssemblyReference.cache
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.FormKioskTestApp.resources
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.Properties.Resources.resources
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.csproj.GenerateResource.Cache
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.exe
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\KioskDriveTestApp\obj\Debug\KioskDriveTestApp.pdb

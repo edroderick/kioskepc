@@ -1,0 +1,5 @@
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\Securiport.Kiosk.KioskDrivers\bin\Debug\Securiport.Kiosk.KioskDrivers.dll
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\Securiport.Kiosk.KioskDrivers\bin\Debug\Securiport.Kiosk.KioskDrivers.pdb
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\Securiport.Kiosk.KioskDrivers\obj\Debug\Securiport.Kiosk.KioskDrivers.csprojResolveAssemblyReference.cache
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\Securiport.Kiosk.KioskDrivers\obj\Debug\Securiport.Kiosk.KioskDrivers.dll
+C:\microchip\harmony\v2_02_00b\apps\KioskSoftware\kiosk-driver\KioskDriver\KioskDriver\Securiport.Kiosk.KioskDrivers\obj\Debug\Securiport.Kiosk.KioskDrivers.pdb

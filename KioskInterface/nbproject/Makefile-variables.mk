@@ -1,0 +1,20 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mx795F512H configuration
+CND_ARTIFACT_DIR_pic32mx795F512H=dist/pic32mx795F512H/production
+CND_ARTIFACT_NAME_pic32mx795F512H=KioskInterface.production.hex
+CND_ARTIFACT_PATH_pic32mx795F512H=dist/pic32mx795F512H/production/KioskInterface.production.hex
+CND_PACKAGE_DIR_pic32mx795F512H=${CND_DISTDIR}/pic32mx795F512H/package
+CND_PACKAGE_NAME_pic32mx795F512H=kioskinterface.tar
+CND_PACKAGE_PATH_pic32mx795F512H=${CND_DISTDIR}/pic32mx795F512H/package/kioskinterface.tar
+# pic32mx795F512L_EPC configuration
+CND_ARTIFACT_DIR_pic32mx795F512L_EPC=dist/pic32mx795F512L_EPC/production
+CND_ARTIFACT_NAME_pic32mx795F512L_EPC=KioskInterface.production.hex
+CND_ARTIFACT_PATH_pic32mx795F512L_EPC=dist/pic32mx795F512L_EPC/production/KioskInterface.production.hex
+CND_PACKAGE_DIR_pic32mx795F512L_EPC=${CND_DISTDIR}/pic32mx795F512L_EPC/package
+CND_PACKAGE_NAME_pic32mx795F512L_EPC=kioskinterface.tar
+CND_PACKAGE_PATH_pic32mx795F512L_EPC=${CND_DISTDIR}/pic32mx795F512L_EPC/package/kioskinterface.tar
